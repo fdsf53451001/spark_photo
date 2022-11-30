@@ -9,4 +9,4 @@
 ## structure
 ![SparkPhoto-程式架構](https://user-images.githubusercontent.com/35889113/203204201-56d40244-85ee-48c6-aa94-1fdff301f2c3.png)
 
-![SparkPhoto-程式架構_多線程優化](https://user-images.githubusercontent.com/35889113/203204580-ccdf475c-0486-4692-9142-030652cd10b0.png)
+![SparkPhoto-程式架構_多線程優化](https://user-images.githubusercontent.com/35889113/204834751-9dc44432-130c-43f1-b2a8-b3baea815b6b.png)
