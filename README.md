@@ -1,5 +1,9 @@
 # spark_video
 
+## installation
+* git clone https://github.com/fdsf53451001/spark_video.git
+* cd spark_video
+* pip install -r requirements.txt
 ## team
 <img width="329" alt="如影隨形" src="https://user-images.githubusercontent.com/35889113/203204415-81beb247-d41d-4199-bfaa-0614864dae0d.png">
 
