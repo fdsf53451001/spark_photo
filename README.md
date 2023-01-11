@@ -20,8 +20,8 @@
 * python main6.py
 
 ### with music model training 
-* download lpd_5_cleansed https://drive.google.com/uc?id=1yz0Ma-6cWTl6mhkrLnAVJ7RNzlQRypQ5
-* download id_lists_amg https://drive.google.com/uc?id=1hp9b_g1hu_dkP4u8h46iqHeWMaUoI07R
+* download [lpd_5_cleansed](https://drive.google.com/uc?id=1yz0Ma-6cWTl6mhkrLnAVJ7RNzlQRypQ5)
+* download [id_lists_amg](https://drive.google.com/uc?id=1hp9b_g1hu_dkP4u8h46iqHeWMaUoI07R)
 * unzip lpd_5_cleansed and id_list_amg
 * set the dataset_root = lpd_5_cleansed path
 * set the amg_path = id_lists_amg path (or spark_muse_amg we provide)
