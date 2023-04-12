@@ -9,7 +9,7 @@
 
 ## usage
 Due to some problem, the code was not fully uploaded.
-contace me (fdsf53451001@gmail.com) for more detail.
+contact me (fdsf53451001@gmail.com) for more detail.
 
 ### with web interface
 * cd web/senior_project
